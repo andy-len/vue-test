@@ -1,12 +1,17 @@
 <template>
   <div id="app">
-    <router-view/>
+    <div class="content">
+      <router-view/>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: "app"
+  name: "app",
+  components: {
+    HelloWorld
+  }
 };
 </script>
 
