@@ -1,8 +1,6 @@
 # vue-test
 
-# 仅仅作为个人搭建 vue 项目的 test 文件，希望尽可能的为大型项目做准备。
-
-# 如有建议请发邮箱 773231813@qq.com
+# 仅仅作为个人搭建 vue 项目的 test 文件，前端框架为iview。
 
 ## Project setup
 
